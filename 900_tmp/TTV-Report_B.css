@@ -58,26 +58,26 @@ h6 tt, h6 code {
   font-size: inherit; }
 
 h1 {
-  font-size: 28px;
+  font-size: 24px;
   color: black; }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
   border-bottom: 1px solid #cccccc;
   color: black; }
 
 h3 {
-  font-size: 18px; }
+  font-size: 16px; }
 
 h4 {
-  font-size: 16px; }
+  font-size: 15px; }
 
 h5 {
   font-size: 14px; }
 
 h6 {
   color: #777777;
-  font-size: 14px; }
+  font-size: 13px; }
 
 p, blockquote, ul, ol, dl, li, table, pre {
   margin: 15px 0; }
@@ -125,7 +125,7 @@ ul :first-child, ol :first-child {
 dl {
   padding: 0; }
   dl dt {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
     font-style: italic;
     padding: 0;

@@ -1,0 +1,9 @@
+table {
+  padding: 0;
+   border-collapse: separate;
+   empty-cells: hide;
+  }
+
+table tr td:first-child {
+    font-weight: bold;
+}

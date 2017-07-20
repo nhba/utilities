@@ -1,7 +1,7 @@
 table {
   padding: 0;
    border-collapse: separate;
-   #empty-cells: hide;
+   /* empty-cells: hide; */
   }
 
 table tr td:first-child {
